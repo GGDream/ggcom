@@ -1,2 +1,2 @@
 # ggdcom
-# thats all for now!
+# thats all!
